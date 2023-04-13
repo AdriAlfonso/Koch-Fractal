@@ -1,5 +1,5 @@
 # Koch-Fractal
-Drawing Koch's fractal using Pyton and Turtle.
+#### In this repo I will be drawing Koch's fractal using Pyton and Turtle.
 
 The Koch fractal, also known as the Koch snowflake, is a mathematical curve and one of the earliest fractals to be described. It is named after the Swedish mathematician Helge von Koch, who introduced it in 1904.
 
