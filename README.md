@@ -1,3 +1,4 @@
+![R (2)](https://user-images.githubusercontent.com/90824134/234557724-20b40a9c-96d2-4526-85bc-f8c7c9fcf00c.gif)
 # Koch-Fractal
 #### In this repo I will be drawing Koch's fractal using Pyton and Turtle.
 
